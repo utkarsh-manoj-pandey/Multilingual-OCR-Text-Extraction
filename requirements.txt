@@ -1,5 +1,5 @@
-streamlit==1.38.0
-Pillow==9.5.0
-pytesseract==0.3.13
-pyperclip==1.8.2
-langdetect==1.0.9
+streamlit
+Pillow
+pytesseract
+pyperclip
+langdetect
